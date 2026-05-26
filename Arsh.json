@@ -1,9 +1,9 @@
 
             {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
-    "servermeassage":"Contact Your seller",
+    "servermeassage":"Under Maintenance Wait 3-4 Hours",
     "opentime":" ",
     "libs":"https://github.com/lestergithu/BeastModOwner/raw/refs/heads/main/libLesterMods.zip",
     "notice_title":"ONLINE BYPASS ACTIVATED",
